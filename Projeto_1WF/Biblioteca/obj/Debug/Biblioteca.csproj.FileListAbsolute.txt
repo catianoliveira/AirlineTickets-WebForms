@@ -1,0 +1,18 @@
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\catia\OneDrive\Ambiente de Trabalho\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Catia Oliveira\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Cinel\Desktop\Projeto_1WF\Biblioteca\obj\Debug\Biblioteca.pdb

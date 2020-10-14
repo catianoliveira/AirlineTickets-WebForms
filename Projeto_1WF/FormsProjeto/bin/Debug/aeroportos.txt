@@ -1,0 +1,7 @@
+2XWAD,OPO,Porto,Portugal
+IXLEM,MAD,Madrid,Espanha
+4I52S,BAR,Barcelona,Espanha
+I3X1M,GTW,Londres,Inglaterra
+NESUR,BER,Berlim,Alemanha
+5HGXC,LIS,Lisboa,Portugal
+TGTOW,CDG,Paris,França

@@ -1,0 +1,12 @@
+332NY,BER Berlim Alemanha,MAD Madrid Espanha,29/02/2020,18:45,ATR335
+B52BA,MAD Madrid Espanha,OPO Porto Portugal,02/03/2020,22:45,ATR335
+GM2CN,OPO Porto Portugal,BER Berlim Alemanha,08/03/2020,20:55,ATR335
+KQJJD,MAD Madrid Espanha,GTW Londres Inglaterra,08/03/2020,20:55,ATR111
+T3YNZ,OPO Porto Portugal,BAR Barcelona Espanha,08/03/2020,22:15,ATR335
+V41GV,GTW Londres Inglaterra,OPO Porto Portugal,06/04/2020,10:45,ATR335
+OZINH,OPO Porto Portugal,BAR Barcelona Espanha,02/03/2020,22:10,Embraer195
+MFBGN,BAR Barcelona Espanha,LIS Lisboa Portugal,27/02/2020,09:40,AirBus 123
+TKLY0,OPO Porto Portugal,LIS Lisboa Portugal,29/02/2020,09:40,Embraer195
+RJPSJ,LIS Lisboa Portugal,MAD Madrid Espanha,07/03/2020,12:50,Embraer195
+RG3KX,LIS Lisboa Portugal,MAD Madrid Espanha,07/03/2020,15:30,ATR111
+PN3TJ,CDG Paris França,LIS Lisboa Portugal,27/02/2020,16:40,ATR111

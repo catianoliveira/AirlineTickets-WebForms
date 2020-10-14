@@ -1,0 +1,6 @@
+HQ244,Ana Almeida,18/01/1990,123456789,Feminino,912345678,ana@mail.pt
+MNKMJ,Manuel Rocha,18/01/2010,123333,Masculino,935565461,sdf@mail.pt
+4PJIJ,José Manuel Santos,26/12/1950,20365855XZ3,Masculino,912555423,jose@hotmail.com
+31GDD,Manuela Antunes,02/12/1975,111111111,Feminino,911111111,manuela@hotmail.com
+RICJN,Joaquim Ramos,23/02/1985,222222222,Masculino,921458745,joaquim@hotmail.com
+ZTBGY,Marta Pinto,25/02/2000,123123123,Feminino,912345666,marta@hotmail.com
